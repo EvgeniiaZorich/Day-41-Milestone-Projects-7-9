@@ -13,6 +13,7 @@
 		328128F5297AD207001BAD75 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 328128F3297AD207001BAD75 /* Main.storyboard */; };
 		328128F7297AD208001BAD75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 328128F6297AD208001BAD75 /* Assets.xcassets */; };
 		328128FA297AD208001BAD75 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 328128F8297AD208001BAD75 /* LaunchScreen.storyboard */; };
+		32812904297DE74B001BAD75 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 32812903297DE74B001BAD75 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		328128F6297AD208001BAD75 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		328128F9297AD208001BAD75 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		328128FB297AD208001BAD75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32812903297DE74B001BAD75 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = start.txt; path = ../../start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				328128F6297AD208001BAD75 /* Assets.xcassets */,
 				328128F8297AD208001BAD75 /* LaunchScreen.storyboard */,
 				328128FB297AD208001BAD75 /* Info.plist */,
+				32812903297DE74B001BAD75 /* start.txt */,
 			);
 			path = "Day-41-Milestone-Projects-7-9 Day-41-Milestone-Projects-7-9";
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				328128FA297AD208001BAD75 /* LaunchScreen.storyboard in Resources */,
+				32812904297DE74B001BAD75 /* start.txt in Resources */,
 				328128F7297AD208001BAD75 /* Assets.xcassets in Resources */,
 				328128F5297AD207001BAD75 /* Main.storyboard in Resources */,
 			);
